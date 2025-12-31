@@ -1,0 +1,9 @@
+{
+  "short_name": "Smart Alert",
+  "name": "Smart Alert - School Management",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00bfa5",
+  "background_color": "#ffffff"
+}
